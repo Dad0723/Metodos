@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Rapicoop</string>
+
+    <string name="create_order">Crear una orden</string>
+    <string name="create_order_title">Crear orden de compra</string>
+
+    <string name="carrito">Button</string>
+    <string name="pizza">Pizza</string>
+    <string name="hamburguesa">Hamburguesa</string>
+    <string name="chorizo">Chorizo Con Arepa</string>
+    <string name="crepes">Crepes</string>
+    <string name="empanadas">Empanadas</string>
+    <string name="perro">Perros Calientes</string>
+    <string name="pinchos">Pinchos</string>
+    <string name="salchipapa">Salchipapa</string>
+    <string name="sandwich">Sandwiches</string>
+    <string name="tacos">Tacos</string>
+    <string name="menu">¿Qué quieres comer?</string>
+    <string-array name="tipo_vendedor">
+        <item>Vendedor</item>
+        <item>Comprador</item>
+        <item>Domiciliario</item>
+    </string-array>
+
+    <string-array name="lista_usuario_principal">
+        <item>Quienes Somos</item>
+        <item>Productos</item>
+        <item>Contactenos</item>
+        <item>Ubicacion</item>
+    </string-array>
+
+    <string name="descripcionQuienesSomos">Rapicoop brinda a sus clientes un servicio de alta calidad,
+        contando con personal altamente calificado quien se encarga de brindar a nuestros clientes el mejor servicio en comidas,
+        cubriendo así de forma inmediata sus necesidades, con Responsabilidad, Eficiencia, Honestidad y
+        un Excelente Servicio al cliente para brindar la confianza y seguridad que hoy en día tienen hacia nosotros.
+    </string>
+    <string name="descripcionMision">Distribuir a travez de una aplicacion los productos ofrecidos por los vendedores
+        de comida callejera, para asi distruibuirlos a travez de domicilios y sin la necesidad que que la gente salga
+        de la calle para comprar comida callejera.
+    </string>
+    <string name="descripcionVision">Para el año 2023, vamos hacer la primera aplicacion que ofrezca sus servicios
+        para lo que es la venta de comidas rapidas en la calle. Siendo una de las primeras y permanecer,  para asi
+        estar ubicados dentro de los primeros lugares.
+    </string>
+
+    <string name="contactenos">Teléfono: 3016361456
+        E-mail: centrodeventas@rapicoop.com
+        Dirección: Cra 72N # 39-64 sur Bogota-Colombia
+    </string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
